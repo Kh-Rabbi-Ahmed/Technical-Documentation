@@ -25,5 +25,4 @@ For a full detailed deployment, please refer to the document **[Deploy Zipkin on
 ## How to Contribute
 Feel free to fork this repository and submit pull requests for any additional deployments or improvements.
 
-## License
-This project is licensed under [Your License Type].
+
