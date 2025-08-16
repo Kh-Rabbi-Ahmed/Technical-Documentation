@@ -1,0 +1,22 @@
+/root
+│
+├── /docs                
+│   ├── README.md        
+│   ├── AI-Driven-Cybersecurity-Solutions.pdf
+│   ├── GAIN_FortifyMIS_Deployment_Documentation.pdf
+│   └── ...               
+│
+├── /Kubernetes-Deployment  
+│   ├── SDG_Project_Deployment_Process_in_a_Kubernetes_Cluster.pdf
+│   └── eMutation_2nd_Gen_Server_Requirement.pdf
+│
+├── /Cybersecurity-Response  
+│   └── BSCIC-Mitigation-and-Cybersecurity-Response.pdf
+│
+├── /AI-Cybersecurity       
+│   └── AI-Driven-Cybersecurity-Solutions.pdf
+│
+├── /DevOps-Career-Course  
+│   └── DevOps_Career_Course_Outline.pdf
+│
+└── /other-files          
